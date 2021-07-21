@@ -1,0 +1,21 @@
+.main-section {
+    width:100%
+}
+.main-container {
+    background-color: #FFFFFF;
+    background-clip: border-box;
+    border: 1px solid #EBFFF7;
+    border-radius: .50rem;
+}
+.active-application-card {
+    background-color: #EBFFF7;
+    background-clip: border-box;
+    border: 1px solid #EBFFF7;
+    border-radius: .50rem;
+}
+.inactive-application-card {
+    background-color: #FFF2F2;
+    background-clip: border-box;
+    border: 1px solid #FFF2F2;
+    border-radius: .50rem;
+}
